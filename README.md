@@ -75,6 +75,7 @@ Labels: Activities classified into predefined categories (e.g., walking, running
 
 ### Install Required Libraries
 Use the requirements.txt file to install dependencies:
+
     pip install -r requirements.txt 
 
 ### Acknowledgments
